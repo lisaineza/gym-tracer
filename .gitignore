@@ -7,6 +7,10 @@ venv/
 instance/
 *.sqlite3
 
+# Configuration & Secrets
+config.js
+config.local.js
+
 # Editor
 .vscode/
 .idea/
