@@ -4,8 +4,8 @@ This backend provides simple endpoints to search for gyms using Geoapify.
 
 Environment:
 - Create `backend/.env` with:
-  GEOAPIFY_API_KEY=your_real_key_here
-  FLASK_ENV=development
+  GEOAPIFY_API_KEY=82f836fa54264d27b5b868a374c89bc5
+  FLASK_DEBUG=1
 
 Run locally:
 ```
