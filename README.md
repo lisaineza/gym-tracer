@@ -2,6 +2,9 @@
 
 A simple, pure frontend gym finder application that searches for nearby gyms using the Geoapify API.
 
+## Link to Demo video
+https://youtu.be/or1L70-yH98 
+
 ##  Features
 
 -  Search gyms by location name
